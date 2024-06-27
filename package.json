@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/aliyahuyy/pinmaker-test#readme",
   "dependencies": {
+    "firebase": "^10.12.2",
     "puppeteer": "^22.12.1"
   }
 }
